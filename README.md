@@ -76,9 +76,9 @@ I'm John Eric Rimorin Kwan — a senior full-stack developer and cloud architect
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimorin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://metrics.lecoq.io/rimorin?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimorin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img src="https://metrics.lecoq.io/rimorin?template=classic&base=0&languages=1&languages.limit=8" alt="Top languages" />
 </div>
 
 ## 👀 Profile Views
