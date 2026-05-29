@@ -75,12 +75,6 @@ I'm John Eric Rimorin Kwan — a senior full-stack developer and cloud architect
   <img src="https://streak-stats.demolab.com/?user=rimorin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/rimorin?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://metrics.lecoq.io/rimorin?template=classic&base=0&languages=1&languages.limit=8" alt="Top languages" />
-</div>
-
 ## 👀 Profile Views
 
 <div align="center">
