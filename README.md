@@ -81,29 +81,6 @@ I'm John Eric Rimorin Kwan — a senior full-stack developer and cloud architect
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimorin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimorin&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</div>
-
-
-## 🐍 Contribution Snake
-
-> Snake animation is wired for this profile via GitHub Actions. Once Actions are enabled and the workflow runs, the animation below will render automatically.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rimorin/rimorin/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
-</div>
-
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- Coming soon: latest posts from [rimorin.com](https://rimorin.com)
-<!-- BLOG-POST-LIST:END -->
-
 ## 👀 Profile Views
 
 <div align="center">
