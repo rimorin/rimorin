@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm John Erick Wan — a senior full-stack developer and cloud architect focused on building resilient web and mobile products with clean developer experience and long-term scalability in mind. I enjoy turning complex business problems into dependable platforms, from polished frontends to distributed backends and cloud-native infrastructure. My work spans modern JavaScript/TypeScript stacks, backend systems, and multi-cloud delivery across AWS, Azure, and GCP. I'm also a strong believer in open source, continuous learning, and shipping software that stays maintainable as it grows.
+I'm John Eric Rimorin Kwan — a senior full-stack developer and cloud architect focused on building resilient web and mobile products with clean developer experience and long-term scalability in mind. I enjoy turning complex business problems into dependable platforms, from polished frontends to distributed backends and cloud-native infrastructure. My work spans modern JavaScript/TypeScript stacks, backend systems, and multi-cloud delivery across AWS, Azure, and GCP. I'm also a strong believer in open source, continuous learning, and shipping software that stays maintainable as it grows.
 
 ## 🔭 What I'm Working On
 
@@ -61,29 +61,25 @@ I'm John Erick Wan — a senior full-stack developer and cloud architect focused
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/rimorin/ministry-mapper-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rimorin&repo=ministry-mapper-v2&theme=tokyonight&hide_border=true" alt="ministry-mapper-v2" />
-  </a>
-  <a href="https://github.com/rimorin/ministry-mapper-be">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rimorin&repo=ministry-mapper-be&theme=tokyonight&hide_border=true" alt="ministry-mapper-be" />
-  </a>
+
+| Project | Description |
+|---------|-------------|
+| 🗺️ **[ministry-mapper-v2](https://github.com/rimorin/ministry-mapper-v2)** | Full-stack territory mapping web app — React + TypeScript + Firebase |
+| ⚙️ **[ministry-mapper-be](https://github.com/rimorin/ministry-mapper-be)** | Backend API service powering ministry-mapper — Node.js + NestJS |
+
 </div>
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rimorin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=rimorin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimorin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rimorin&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimorin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimorin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
+</div>
 
 ## 📈 Activity Graph
 
@@ -94,7 +90,7 @@ I'm John Erick Wan — a senior full-stack developer and cloud architect focused
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rimorin&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rimorin&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub trophies" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -109,38 +105,40 @@ I'm John Erick Wan — a senior full-stack developer and cloud architect focused
   <summary><b>GitHub Actions setup note</b></summary>
   <br />
 
-  The repository already includes <code>.github/workflows/snake.yml</code>. Make sure GitHub Actions is enabled for this repository so the workflow can generate and publish the snake assets to the <code>output</code> branch.
+The repository already includes <code>.github/workflows/snake.yml</code>. Make sure GitHub Actions is enabled for this repository so the workflow can generate and publish the snake assets to the <code>output</code> branch.
 
-  ```yaml
-  name: Generate Snake
+```yaml
+name: Generate Snake
 
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    push:
-      branches: [main, master]
-    workflow_dispatch:
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [main, master]
+  workflow_dispatch:
 
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: rimorin
-            outputs: |
-              output/github-snake.svg
-              output/github-snake-dark.svg?palette=github-dark
-  ```
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rimorin
+          outputs: |
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+```
 
-  <sub>Optional next enhancement: add a separate 3D contribution workflow if you want an additional visual contribution widget.</sub>
+<sub>Optional next enhancement: add a separate 3D contribution workflow if you want an additional visual contribution widget.</sub>
+
 </details>
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - Coming soon: latest posts from [rimorin.com](https://rimorin.com)
 <!-- BLOG-POST-LIST:END -->
 
