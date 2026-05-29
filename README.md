@@ -87,10 +87,14 @@ I'm John Eric Rimorin Kwan — a senior full-stack developer and cloud architect
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimorin&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rimorin&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-4EC820?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Since%202018-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-BB9AF7?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Cloud-AWS%20%7C%20Azure%20%7C%20GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ## 🐍 Contribution Snake
