@@ -96,39 +96,6 @@ I'm John Eric Rimorin Kwan — a senior full-stack developer and cloud architect
   <img src="https://raw.githubusercontent.com/rimorin/rimorin/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
 
-<details>
-  <summary><b>GitHub Actions setup note</b></summary>
-  <br />
-
-The repository already includes <code>.github/workflows/snake.yml</code>. Make sure GitHub Actions is enabled for this repository so the workflow can generate and publish the snake assets to the <code>output</code> branch.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: [main, master]
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rimorin
-          outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
-```
-
-<sub>Optional next enhancement: add a separate 3D contribution workflow if you want an additional visual contribution widget.</sub>
-
-</details>
 
 ## 📝 Latest Blog Posts
 
