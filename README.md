@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=John%20Erick%20Wan&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=John%20Eric%20Rimorin%20Kwan&fontSize=36&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect&descAlignY=55&animation=twinkling" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Cloud+Architect;Open+Source+Enthusiast;Building+scalable+apps;Always+learning+something+new&font=Fira+Code&center=true&width=700&height=45&color=7AA2F7&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
